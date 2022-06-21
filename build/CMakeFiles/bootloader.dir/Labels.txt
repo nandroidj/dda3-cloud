@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/nandroid/Downloads/tp_daiot/build/CMakeFiles/bootloader
+/Users/nandroid/Downloads/tp_daiot/build/CMakeFiles/bootloader.rule
+/Users/nandroid/Downloads/tp_daiot/build/CMakeFiles/bootloader-complete.rule
+/Users/nandroid/Downloads/tp_daiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/nandroid/Downloads/tp_daiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/nandroid/Downloads/tp_daiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/nandroid/Downloads/tp_daiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/nandroid/Downloads/tp_daiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/nandroid/Downloads/tp_daiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/nandroid/Downloads/tp_daiot/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
